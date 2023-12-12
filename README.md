@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Vasupol Sirithanakom
 - 👀 I’m interested in Data engineer
 - 🌱 I’m currently learning Spark / Airflow / Docker
-- :pencil2: My skill : Python / SQL / Pandas 
+- :pencil2: My skills : Python / SQL / Pandas 
 - 📫 How to reach me / vasupol.sr@gmail.com
 
 <!---
