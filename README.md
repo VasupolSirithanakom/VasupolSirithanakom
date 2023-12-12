@@ -5,6 +5,7 @@ I’m Mechanical engineer interested in Data engineer
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [vasupol.sr@gmail.com](mailto:vasupol.sr@gmail.com)
+* :pencil2: My skills : Python / SQL / Pandas
 * 🧠  I'm learning Spark / Airflow / Docker
 
 ### Skills
